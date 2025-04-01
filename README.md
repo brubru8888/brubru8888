@@ -29,4 +29,4 @@ Me interesso por diversas áreas da programação, como desenvolvimento backend,
 
 ## 👤 Onde me encontrar
 - 👨‍💻 [LinkedIn](https://www.linkedin.com/in/bruna-bariccatti)
-- 🎧 Entre em contato comigo por **bbariccatti@email.com**
+- 🎧 Entre em contato comigo por **bbariccatti@gmail.com**
