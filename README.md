@@ -28,5 +28,5 @@ Me interesso por diversas áreas da programação, como desenvolvimento backend,
 - **[Hackathon Tractian](https://github.com/brubru8888/website_audio)** - Backend com FastAPI para assistência em manutenção industrial
 
 ## 👤 Onde me encontrar
-- 👨‍💻 [LinkedIn](www.linkedin.com/in/bruna-bariccatti)
+- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/bruna-bariccatti)
 - 🎧 Entre em contato comigo por **bbariccatti@email.com**
